@@ -4,7 +4,7 @@ Building a Minesweeper Game from scratch
 
 #### CURRENT STATUS:
 
-![screenshot](./screenshots/2020-08-22.Png)
+![screenshot](./screenshots/2020-08-22.png)
 
 ### TODO:
 
