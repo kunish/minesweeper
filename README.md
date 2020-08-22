@@ -21,3 +21,45 @@ Building a Minesweeper Game from scratch
 - [ ] Multiple Theme
 - [ ] Audio
 - [ ] Feature toggle(You can toggle a feature on and off, such as Clock and Audio, they are annoying sometimes)
+
+#### Optimize
+
+- [ ] Game logic
+
+### How to play
+
+1. Clone this repo
+
+```bash
+git clone https://github.com/kunish/minesweeper.git
+```
+
+2. Install dependencies
+
+```bash
+yarn
+```
+
+or
+
+```bash
+npm i
+```
+
+3. Start a local service
+
+```bash
+yarn start
+```
+
+or
+
+```bash
+npm run start
+```
+
+4. Game time!!!
+
+### Contributing
+
+PRs are welcome 🤲
