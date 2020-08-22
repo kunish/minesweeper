@@ -1,2 +1,3 @@
 # minesweeper
-Build a Minesweeper Game from scratch
+
+Building a Minesweeper Game from scratch

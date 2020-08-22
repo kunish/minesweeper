@@ -1,0 +1,59 @@
+body {
+  font-family: Dank Mono, monospace;
+  margin: 0;
+  padding: 0;
+  background-color: cadetblue;
+  color: white;
+  user-select: none;
+}
+
+.header {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.new {
+  text-align: center;
+  outline: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.game {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item {
+  --size: 20px;
+  width: var(--size);
+  height: var(--size);
+  background-color: bisque;
+  border-radius: 2px;
+  margin: 2px;
+  cursor: pointer;
+  transition-property: transform;
+  transition-duration: 0.3s;
+  text-align: center;
+  line-height: var(--size);
+}
+
+.item.bomb {
+  background-color: red !important;
+}
+
+.item.revealed {
+  background-color: blue !important;
+}
+
+.item:hover {
+  transform: scale(1.2);
+  background-color: aqua;
+}
