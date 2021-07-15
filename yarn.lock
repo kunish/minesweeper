@@ -833,10 +833,10 @@
   resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-14.6.0.tgz#7d4411bf5157339337d7cff864d9ff45f177b499"
   integrity sha1-fUQRv1FXM5M318/4ZNn/RfF3tJk=
 
-"@types/node@^12.0.12":
-  version "12.12.54"
-  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-12.12.54.tgz#a4b58d8df3a4677b6c08bfbc94b7ad7a7a5f82d1"
-  integrity sha1-pLWNjfOkZ3tsCL+8lLetenpfgtE=
+"@types/node@^14.6.2":
+  version "14.17.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.5.tgz#b59daf6a7ffa461b5648456ca59050ba8e40ed54"
+  integrity sha512-bjqH2cX/O33jXT/UmReo2pM7DIJREPMnarixbQ57DOOzzFaI6D2+IcwaJQaJpv0M1E9TIhPCYVxrkcityLjlqA==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -2256,13 +2256,13 @@ electron-winstaller@^5.0.0:
     lodash.template "^4.2.2"
     temp "^0.9.0"
 
-electron@9.2.1:
-  version "9.2.1"
-  resolved "https://registry.npm.taobao.org/electron/download/electron-9.2.1.tgz?cache=0&sync_timestamp=1597790716081&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felectron%2Fdownload%2Felectron-9.2.1.tgz#54ef574e1af4ae967b5efa94312f1b6458d44a02"
-  integrity sha1-VO9XThr0rpZ7XvqUMS8bZFjUSgI=
+electron@13.1.7:
+  version "13.1.7"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-13.1.7.tgz#7e17f5c93a8d182a2a486884fed3dc34ab101be9"
+  integrity sha512-sVfpP/0s6a82FK32LMuEe9L+aWZw15u3uYn9xUJArPjy4OZHteE6yM5871YCNXNiDnoCLQ5eqQWipiVgHsf8nQ==
   dependencies:
     "@electron/get" "^1.0.1"
-    "@types/node" "^12.0.12"
+    "@types/node" "^14.6.2"
     extract-zip "^1.0.3"
 
 emoji-regex@^7.0.1:
