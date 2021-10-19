@@ -70,7 +70,7 @@
     "electron-squirrel-startup": "^1.0.0"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "9.1.2",
+    "@commitlint/config-conventional": "13.2.0",
     "@electron-forge/cli": "6.0.0-beta.57",
     "@electron-forge/maker-deb": "6.0.0-beta.57",
     "@electron-forge/maker-rpm": "6.0.0-beta.57",
@@ -79,7 +79,7 @@
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/git": "9.0.0",
     "babel-eslint": "10.1.0",
-    "commitlint": "9.1.2",
+    "commitlint": "13.2.1",
     "electron": "9.2.1",
     "eslint": "7.7.0",
     "eslint-config-prettier": "6.11.0",
